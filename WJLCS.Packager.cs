@@ -285,6 +285,8 @@ namespace WJLCS.Packager {
 				return (name == "bin" ||
 						name == "obj" ||
 						name == "packages" ||
+						name == "build" ||   // Java
+						name == "private" || // NetBeans
 						(NormalizedOutputDir != null && NormalizePath(path) == NormalizedOutputDir));
 			}
 			return false;
