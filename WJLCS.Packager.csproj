@@ -12,6 +12,7 @@
     <Company>Trigger's Tools &amp; Games</Company>
     <Copyright>Copyright © Robert Jordan 2018</Copyright>
     <Description>Used to package code projects into .rtf files for submission to Canvas.</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
